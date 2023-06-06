@@ -1,0 +1,9 @@
+{
+  "name": "JajcoCoin", 
+  "symbol": "JAJO",
+  "uri": "TOKEN_URI",
+  "sellerFeeBasisPoints": 0.001,
+  "creators": RedMX,
+  "collection": null,
+  "uses": null
+}
