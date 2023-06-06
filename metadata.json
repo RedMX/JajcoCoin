@@ -1,7 +1,7 @@
 {
   "name": "JajcoCoin", 
   "symbol": "JAJO",
-  "uri": "TOKEN_URI",
+  "uri": "https://raw.githubusercontent.com/RedMX/JajcoCoin/main/token_data.json",
   "sellerFeeBasisPoints": 0.001,
   "creators": null,
   "collection": null,
