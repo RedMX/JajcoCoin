@@ -2,5 +2,5 @@
   "name": "JajcoCoin",
   "symbol": "JAJO",
   "description": "A solana token made for fun",
-  "image": "TOKEN_IMAGE_URL"
+  "image": "https://raw.githubusercontent.com/RedMX/JajcoCoin/main/JajcoCoin.jpg"
 }
